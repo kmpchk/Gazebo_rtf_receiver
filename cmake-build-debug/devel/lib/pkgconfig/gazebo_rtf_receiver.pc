@@ -1,0 +1,8 @@
+prefix=/home/optio32/ros_workspace/src/gazebo_rtf_receiver/cmake-build-debug/devel
+
+Name: gazebo_rtf_receiver
+Description: Description of gazebo_rtf_receiver
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/optio32/ros_workspace/src/gazebo_rtf_receiver/cmake-build-debug/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: gazebo_rtf_receiver
+Description: Description of gazebo_rtf_receiver
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

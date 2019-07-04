@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/optio32/ros_workspace/src/gazebo_rtf_receiver/cmake-build-debug/devel/setup.sh
